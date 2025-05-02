@@ -1,0 +1,3 @@
+Dataset : https://data.mendeley.com/datasets/9xkhgts2s6/3
+GPU : Colab Tesla T4 GPU
+CPU : i5 U Gen
